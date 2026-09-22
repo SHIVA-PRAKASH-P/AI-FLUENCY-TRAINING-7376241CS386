@@ -1,0 +1,23 @@
+[
+  {
+    "company": "TechNova",
+    "role": "AI/ML Intern",
+    "monthly_stipend": 15000,
+    "duration_months": 6,
+    "tax_deduction_percent": 10
+  },
+  {
+    "company": "CloudSprint",
+    "role": "Backend Intern",
+    "monthly_stipend": 20000,
+    "duration_months": 3,
+    "tax_deduction_percent": 5
+  },
+  {
+    "company": "DataForge",
+    "role": "Data Engineering Intern",
+    "monthly_stipend": 12000,
+    "duration_months": 8,
+    "tax_deduction_percent": 8
+  }
+]
