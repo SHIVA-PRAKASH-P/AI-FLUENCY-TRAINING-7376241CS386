@@ -1,6 +1,6 @@
 # Day 3 — LLM with a Single Tool
 
-Scenario: **Internship Stipend Assistant** for Saran, comparing a plain
+Scenario: **Internship Stipend Assistant** for Shiva, comparing a plain
 LLM prompt against an LLM that can call one tool to look up private
 internship data (profile, offers, payment history).
 
